@@ -1,4 +1,4 @@
-## Task 
+## Task - If Else
 ### Given an integer,n,perform the following conditional actions:
 
 * If n is odd, print Weird
